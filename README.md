@@ -28,17 +28,9 @@ Our primary objective is to harness the power of AI and drone technology to faci
 
 ## Media Gallery
 
-### Images
+### Video
 
-![Project Image 1](path/to/your/image1.jpg)
-
-![Project Image 2](path/to/your/image2.jpg)
-
-### Videos
-
-[Project Video 1](path/to/your/video1.mp4)
-
-[Project Video 2](path/to/your/video2.mp4)
+<img align ="centre" alt="coding" width="500" src="https://github.com/rugvedjalit/AI-based-Drone-for-Precision-Agriculture/blob/main/Media-Gallery/PropellerTest.gif">
 
 ## Getting Started
 
