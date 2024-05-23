@@ -1,7 +1,7 @@
 # AI-based Drone for Precision Agriculture
 
 <H1 align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Informal+Roman&weight=10&size=30&duration=1000&pause=1000&color=32012F&center=true&vCenter=true&random=false&width=435&lines=Our+project+is+constantly+evolving+;and+under+active+development%2C;+with+ongoing+improvements+and+;features+being+implemented." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Our+project+is+constantly+evolving+;and+under+active+development%2C;+with+ongoing+improvements;+and+features+being+implemented." alt="Typing SVG" /></a>
 </H1>
 
 Welcome to the **AI-based Drone for Precision Agriculture** project! In an era where technology meets agriculture, our project stands at the forefront, introducing an innovative AI-based drone specifically engineered for precision agriculture. This cutting-edge project is designed to revolutionize the agricultural sector by enhancing crop productivity and optimizing farm management practices.
@@ -32,9 +32,17 @@ Our primary objective is to harness the power of AI and drone technology to faci
 
 ## Media Gallery
 
+### Image
+
+<h1 align=center>
+<img align ="center" alt="coding" width="400" src="https://github.com/rugvedjalit/AI-based-Drone-for-Precision-Agriculture/blob/main/Media-Gallery/01.jpg">
+</h1>
+
 ### Video
 
-<img align ="centre" alt="coding" width="500" src="https://github.com/rugvedjalit/AI-based-Drone-for-Precision-Agriculture/blob/main/Media-Gallery/PropellerTest.gif">
+<h1 align=center>
+<img align ="center" alt="coding" width="400" src="https://github.com/rugvedjalit/AI-based-Drone-for-Precision-Agriculture/blob/main/Media-Gallery/PropellerTest.gif">
+</h1>
 
 ## Getting Started
 
