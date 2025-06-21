@@ -91,7 +91,7 @@ We welcome contributions from the community! To contribute:
 
 ## Contact
 
-For any questions or inquiries, please contact us at [rugwedjalit@gmail.com](mailto:rugvedjalit@gmail.com).
+For any questions or inquiries, please contact us at [rugvedjalit@gmail.com](mailto:rugvedjalit@gmail.com).
 
 ## License
 
